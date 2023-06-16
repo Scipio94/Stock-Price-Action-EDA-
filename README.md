@@ -1,7 +1,7 @@
 # Stock-Price-Action-EDA
 
 ## Description
-Exploratory data analysis of several large-cap companies stock price action over a specific time period using python, specifically the pandas, numpy, and matplotlib.pyplot packages.
+Exploratory data analysis of several large-cap companies stock price action over a specific time period using python, specifically the pandas, numpy, and matplotlib.pyplot packages. The EDA is availible in the *Stock EDA Python Syntax File*
 
 ## Variables
 - Ticker: Stock symbol
